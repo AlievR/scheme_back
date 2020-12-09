@@ -1,0 +1,5 @@
+{
+    "port":5000,
+    "mongoUri":"'mongodb://192.168.0.101:27017/libr",
+    "secretKey": "OsePCiT MinDigital"
+}
